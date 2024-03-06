@@ -262,22 +262,4 @@ please make sure to add a `README.md` file that follow the same construction as 
 | 68    | <a href="https://github.com/ndleah/python-mini-project/images_to_pdf_converter/">Images To Pdf Converter | Multiple images in Folder being converted in one pdf | [Nikhil Gupta](https://www.github.com/guptanik9) |
 | 69    | <a href="https://github.com/ndleah/python-mini-project/Download%20Audio/">Download Audio | This is a python script that downloads audio files directly from youtube videos. | [Muhammad Abdullah]((https://github.com/Muhammad-Abdullah3)) |
 | 70    | <a href="https://github.com/ndleah/python-mini-project/Expense_Tracker/">Expense Tracker | Expense Tracker is a Python application designed to help users keep track of their daily expenses | [Darshan Patil](https://github.com/darshan8850) |
-| 71    | <a href="https://github.com/ndleah/python-mini-project/Lazy_Pong/">Lazy Pong | This is a simple implementation of the classic Pong game in Python using the Pygame library | [dar8900](https://github.com/dar8900) |
-
-## ![image](IMG/like.svg) Our Contributors
-
-<a href="https://github.com/ndleah/python-mini-project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ndleah/python-mini-project" />
-</a>
-
-## ![image](IMG/muscle.svg) Feedback
-
-If you have any feedback or ideas to improve this project, feel free to contact me via
-
-<a href="https://www.linkedin.com/in/ndleah/">
-  <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-</a>
-<a href="https://github.com/ndleah">
-  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+| 71    | <a href="https://github.com/ndleah/python-mini-project/Lazy_Pong/">Lazy Pong | This is a simple implementation of the classic Pong game in Python using the Pygame library | [dar8900](https://github.com/dar8900)
